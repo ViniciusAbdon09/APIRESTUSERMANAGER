@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PosHfmtoprZJtqujO1C0mBinGslNO4ny+mGDHGxJ5IWMwKJCTKoV5FmmQn2mOP/IwSX9nT3LiZ6/jS90UnqZcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinia\\Desktop\\Manager\\src\\2- Manager.Domain\\Manager.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinia\\.nuget\\packages\\fluentvalidation\\9.5.2\\fluentvalidation.9.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

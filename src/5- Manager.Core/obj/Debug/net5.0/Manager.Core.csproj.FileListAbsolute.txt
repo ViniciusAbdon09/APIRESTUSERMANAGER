@@ -1,0 +1,12 @@
+C:\Users\vinia\Desktop\Manager\src\5- Manager.Core\bin\Debug\net5.0\Manager.Core.deps.json
+C:\Users\vinia\Desktop\Manager\src\5- Manager.Core\bin\Debug\net5.0\Manager.Core.dll
+C:\Users\vinia\Desktop\Manager\src\5- Manager.Core\bin\Debug\net5.0\ref\Manager.Core.dll
+C:\Users\vinia\Desktop\Manager\src\5- Manager.Core\bin\Debug\net5.0\Manager.Core.pdb
+C:\Users\vinia\Desktop\Manager\src\5- Manager.Core\obj\Debug\net5.0\Manager.Core.csprojAssemblyReference.cache
+C:\Users\vinia\Desktop\Manager\src\5- Manager.Core\obj\Debug\net5.0\Manager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinia\Desktop\Manager\src\5- Manager.Core\obj\Debug\net5.0\Manager.Core.AssemblyInfoInputs.cache
+C:\Users\vinia\Desktop\Manager\src\5- Manager.Core\obj\Debug\net5.0\Manager.Core.AssemblyInfo.cs
+C:\Users\vinia\Desktop\Manager\src\5- Manager.Core\obj\Debug\net5.0\Manager.Core.csproj.CoreCompileInputs.cache
+C:\Users\vinia\Desktop\Manager\src\5- Manager.Core\obj\Debug\net5.0\Manager.Core.dll
+C:\Users\vinia\Desktop\Manager\src\5- Manager.Core\obj\Debug\net5.0\ref\Manager.Core.dll
+C:\Users\vinia\Desktop\Manager\src\5- Manager.Core\obj\Debug\net5.0\Manager.Core.pdb

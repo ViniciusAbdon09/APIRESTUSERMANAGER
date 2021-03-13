@@ -1,0 +1,15 @@
+C:\Users\vinia\Desktop\Manager\src\2- Manager.Domain\bin\Debug\net5.0\Manager.Domain.deps.json
+C:\Users\vinia\Desktop\Manager\src\2- Manager.Domain\bin\Debug\net5.0\Manager.Domain.dll
+C:\Users\vinia\Desktop\Manager\src\2- Manager.Domain\bin\Debug\net5.0\ref\Manager.Domain.dll
+C:\Users\vinia\Desktop\Manager\src\2- Manager.Domain\bin\Debug\net5.0\Manager.Domain.pdb
+C:\Users\vinia\Desktop\Manager\src\2- Manager.Domain\bin\Debug\net5.0\Manager.Core.dll
+C:\Users\vinia\Desktop\Manager\src\2- Manager.Domain\bin\Debug\net5.0\Manager.Core.pdb
+C:\Users\vinia\Desktop\Manager\src\2- Manager.Domain\obj\Debug\net5.0\Manager.Domain.csprojAssemblyReference.cache
+C:\Users\vinia\Desktop\Manager\src\2- Manager.Domain\obj\Debug\net5.0\Manager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinia\Desktop\Manager\src\2- Manager.Domain\obj\Debug\net5.0\Manager.Domain.AssemblyInfoInputs.cache
+C:\Users\vinia\Desktop\Manager\src\2- Manager.Domain\obj\Debug\net5.0\Manager.Domain.AssemblyInfo.cs
+C:\Users\vinia\Desktop\Manager\src\2- Manager.Domain\obj\Debug\net5.0\Manager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vinia\Desktop\Manager\src\2- Manager.Domain\obj\Debug\net5.0\Manager.Domain.csproj.CopyComplete
+C:\Users\vinia\Desktop\Manager\src\2- Manager.Domain\obj\Debug\net5.0\Manager.Domain.dll
+C:\Users\vinia\Desktop\Manager\src\2- Manager.Domain\obj\Debug\net5.0\ref\Manager.Domain.dll
+C:\Users\vinia\Desktop\Manager\src\2- Manager.Domain\obj\Debug\net5.0\Manager.Domain.pdb
